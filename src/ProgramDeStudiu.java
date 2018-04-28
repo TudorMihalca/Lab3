@@ -4,5 +4,6 @@ public class ProgramDeStudiu {
 
         System.out.println("Hello World!");
         System.out.println("Hello CJ!");
+        System.out.println("Hello CdJ!");
     }
 }
